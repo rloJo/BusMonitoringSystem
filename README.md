@@ -23,7 +23,7 @@ FLASK 및 MQTT 통신을 활용해 추출한 데이터를 대시보드로 시각
     <tr>
          <td style="text-align: center"> Tool </td> 
          <td>  
-             <img src="https://img.shields.io/badge/vim-339AF0?style=for-the-badge&logo=vim&logoColor=white">
+             <img src="https://img.shields.io/badge/vim-339AF0?style=for-the-badge&logo=vim&logoColor=white" alt = "vim">
          </td>
     </tr>
     <tr>
